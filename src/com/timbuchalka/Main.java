@@ -11,7 +11,7 @@ import  java.util.*;
 public class Main {
     static  Scanner scanner = new Scanner(System.in) ;
 
-
+// tutaj sobie komentuję
     public static void main(String[] args) {
         ArrayList<Player> players = new ArrayList<Player>();
         Player player1 = new Player("");
